@@ -15,7 +15,7 @@ ESTIMATE OF # OF HOURS SPENT ON THIS ASSIGNMENT:  29
 
 
 
-DESCRIPTION: A homework assignment which takes a Slitherlink board and builds a grid around it according to the rules of slitherlink or builds a possible board based on a given grid. I can print out a single solution, a solution with only one loop and all possible solutions. The text file input is a rectangular grid of numbers and the reverse board is a collection of + and - in order to create a grid. There are example text files included.
+DESCRIPTION: A homework assignment which takes a Slitherlink board and builds a grid around it according to the rules of slitherlink or builds a possible board based on a given grid. I can print out a single solution, a solution with only one loop and all possible solutions. The text file input is a rectangular grid of numbers and the reverse board is a collection of + and - in order to create a grid. There are example text files included. Enter the file names via command line.
 
 
 
